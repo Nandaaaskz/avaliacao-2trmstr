@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.apresentacao{
+    background-color: black;
+}
+
+.imagem-painscreek{
+    width: 1200px;
+    margin-left: 160px;
+}
+
+.paragrafo-apresentacao{
+    font-size: 35px;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    margin-left: 75px;
+    margin-right: 75px;
+    text-align: center;
+    text-align: center;font-family: 'Inter', sans-serif;
+}
+
+
+
