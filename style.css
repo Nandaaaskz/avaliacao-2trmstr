@@ -7,11 +7,13 @@
 
 .apresentacao{
     background-color: black;
+    padding-bottom: 300px;
 }
 
 .imagem-painscreek{
     width: 1200px;
     margin-left: 160px;
+    padding-bottom: 100px;
 }
 
 .paragrafo-apresentacao{
@@ -25,5 +27,7 @@
     text-align: center;font-family: 'Inter', sans-serif;
 }
 
-
-
+.logo-painscreek{
+    padding-top: 100px;
+    margin-left: 450px;
+}
